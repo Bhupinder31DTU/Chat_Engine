@@ -1,0 +1,15 @@
+Client : hi
+Server : hi
+Client : whats doing
+Server : whats doing
+Client : hi
+Server : Hi
+Client : whats up
+Server : nothing you tell
+Client : chating with you
+Server : ha ha
+Client : great
+Client : hi
+Server : hi
+Client : whats up
+Server : doing great
